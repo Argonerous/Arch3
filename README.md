@@ -24,12 +24,12 @@
         <label for="Phone">Phone number:</label>
         <input type="tel" id="Phone" name="Phone" placeholder="(###)### ###"> <br> <br>
         <label for="Languages">Choose your Disabilities: </label> <br></br>
-        <input type="checkbox">Fat |
-        <input type="checkbox" >Retard | <BR></BR>
+        <input type="checkbox">0x |
+        <input type="checkbox" >R0x | <BR></BR>
         <input type="checkbox" >Blind |
         <input type="checkbox" >No hands | <BR></BR>
         <input type="checkbox" >No legs | 
-        <input type="checkbox" >Black | <BR></BR>
+        <input type="checkbox" >0xb| <BR></BR>
         
         <label >Choose your previous Job:</label>
         <SElect>
@@ -37,11 +37,11 @@
         <option value="CCS"> CCS</option>
         <option value="CCP"> CCP</option>
         <option value="CIS"> CIS</option>
-        <option value="CIS"> Cotton picking</option>
+        <option value="CIS"> Co0 </option>
         
         </SElect> <br><br>
 
-        <label for="i">I agree to be your slave</label>
+        <label for="i">I agree </label>
         <input type="checkbox" name="i" id="i"> <br><br>
         <label for="date">Date:</label>
         <input type="date" name="" id=""><br><br>
